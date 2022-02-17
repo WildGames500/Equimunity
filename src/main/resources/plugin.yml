@@ -1,0 +1,8 @@
+name: Equimunity
+version: '${project.version}'
+main: net.equimunity.equimunity
+api-version: 1.16
+commands:
+  h:
+    description: Returns horse stuff!
+    usage: /<command> [kill, claim, trust]
